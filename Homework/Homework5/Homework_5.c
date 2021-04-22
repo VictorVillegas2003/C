@@ -1,3 +1,5 @@
+/*First you have to include the library "File.h" in the "Homework_5.c"file, after that you make another file with the name "File.h" and you put the code that is in the homework5 file, then you run and compile the code and finally you start playing*/
+
 #include "File.h" 
 
 int NearMines(int row, int column, char table[ROWS][COLUMNS]) {
