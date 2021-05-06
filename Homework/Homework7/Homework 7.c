@@ -21,7 +21,6 @@ int main(int x, char** y) {
   activity();
   op==options();
  scanf ("%d", &op);
- printf ("\n\n");
  while (op !=7){
  switch(op){
   case '1':printf ("\nAdd employee.\n");activity();op==options();scanf ("%d", &op);break;
