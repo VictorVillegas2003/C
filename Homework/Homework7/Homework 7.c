@@ -18,7 +18,6 @@ int main(int x, char** y) {
   char c;
    int i, count = 0;
    worker** w;
-  
   activity();
   op==options();
  scanf ("%d", &op);
