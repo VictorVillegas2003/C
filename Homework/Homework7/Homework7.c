@@ -90,4 +90,4 @@ void activity()/*teacher's repo example*/
   }
   free(w);
  }
-/*this program was made with the help of the teacher's repo, and the book "the c programming language by Brian W. Kernighan and Dennis M. Ritchie"*/
+/*this program was made with the help of the teacher's repo, the help of my classmates as pedroHC, and the book "the c programming language by Brian W. Kernighan and Dennis M. Ritchie"*/
