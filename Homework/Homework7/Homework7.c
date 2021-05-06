@@ -1,4 +1,4 @@
-/*it migth not work :((
+/*it doesn't really work, i tried , but i couldn't :((
 in order to run this you have to add a new file with the name "File.h, so this header can be included"
 Also you have to add another file with the name "workers.txt" so the program can take the information from that database
 */
