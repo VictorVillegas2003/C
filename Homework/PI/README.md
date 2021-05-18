@@ -32,7 +32,7 @@ Your best guitar option would be Gibson Les Paul with G Force tuning system (aut
 ------------
 
 #### **Video's link**
-Here you can find the video
+[Here](https://youtu.be/Kcsv2OutWKs) you can find the video
 
 ------------
 
