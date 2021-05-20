@@ -1,7 +1,7 @@
 #  **GUITAR SELECTOR **
 
 #### **Video's link**
-[Here](https://youtu.be/Kcsv2OutWKs) you can find the video
+[Here](https://youtu.be/Kcsv2OutWKs) you can find the video.
 
 ------------
 #### Objective
