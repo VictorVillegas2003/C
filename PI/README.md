@@ -4,6 +4,16 @@
 [Here](https://youtu.be/Kcsv2OutWKs) you can find the video.
 
 ------------
+#### Self-assessment
+
+Complexity 1 (Isn't demanding at all)
+functionality 2 (I tried to include more stuff, but i couldn't, but i think that the code doesn't breaks)
+code 3 (I think it is pretty clean)
+storage 1 (Is limitated)
+documantation 3 (The orthography is good, but I had some troubles with the video so It isn't that good)
+CF 8 out of 15
+
+------------
 #### Objective
 This code has as object to give to the people the best guitar option according to the music gender the want to play, and if the guitar is going to be played in studio or in a presentation. 
 
