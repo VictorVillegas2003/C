@@ -6,15 +6,15 @@
 ------------
 #### Self-assessment
 
-Complexity 1 (Isn't demanding at all)
+&bull;Complexity 1 (Isn't demanding at all)
 
-functionality 2 (I tried to include more stuff, but i couldn't, but i think that the code doesn't breaks).
+&bull;functionality 2 (I tried to include more stuff, but i couldn't, but i think that the code doesn't breaks).
 
-code 3 (I think it is pretty clean).
+&bull;code 3 (I think it is pretty clean).
 
-storage 1 (Is limitated).
+&bull;storage 1 (Is limitated).
 
-documantation 3 (The orthography is good, but I had some troubles with the video so It isn't that good).
+&bull;documantation 3 (The orthography is good, but I had some troubles with the video so It isn't that good).
 
 CF 8 out of 15
 
