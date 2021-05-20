@@ -1,4 +1,9 @@
 #  **GUITAR SELECTOR **
+
+#### **Video's link**
+[Here](https://youtu.be/Kcsv2OutWKs) you can find the video
+
+------------
 #### Objective
 This code has as object to give to the people the best guitar option according to the music gender the want to play, and if the guitar is going to be played in studio or in a presentation. 
 
@@ -28,11 +33,6 @@ Is the user do this combination:
 &bull;**Are you going to use it in a live presentation or in the studio: **2 (Live presentation)****
 
 Your best guitar option would be Gibson Les Paul with G Force tuning system (automatic tuner), since this guitar solves one of the main problems at the studio, the detuning, therefore at the recording time you won't have problems with the tuning.
-
-------------
-
-#### **Video's link**
-[Here](https://youtu.be/Kcsv2OutWKs) you can find the video
 
 ------------
 
